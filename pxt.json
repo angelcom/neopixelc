@@ -1,6 +1,6 @@
 {
     "name": "neopixelc",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "show chars by neopixel",
     "license": "MIT",
     "dependencies": {
